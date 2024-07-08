@@ -1,0 +1,23 @@
+A blazar is an active galactic nucleus (AGN) with a relativistic jet (a jet composed of ionized matter traveling at nearly the speed of light) directed very nearly towards an observer. Relativistic beaming of electromagnetic radiation from the jet makes blazars appear much brighter than they would be if the jet were pointed in a direction away from Earth.[1] Blazars are powerful sources of emission across the electromagnetic spectrum and are observed to be sources of high-energy gamma ray photons. Blazars are highly variable sources, often undergoing rapid and dramatic fluctuations in brightness on short timescales (hours to days). Some blazar jets appear to exhibit superluminal motion, another consequence of material in the jet traveling toward the observer at nearly the speed of light.
+
+The blazar category includes BL Lac objects and optically violently variable (OVV) quasars. The generally accepted theory is that BL Lac objects are intrinsically low-power radio galaxies while OVV quasars are intrinsically powerful radio-loud quasars. The name "blazar" was coined in 1978 by astronomer Edward Spiegel to denote the combination of these two classes.[2]
+
+In visible-wavelength images, most blazars appear compact and pointlike, but high-resolution images reveal that they are located at the centers of elliptical galaxies.[3]
+
+Blazars are important topics of research in astronomy and high-energy astrophysics. Blazar research includes investigation of the properties of accretion disks and jets, the central supermassive black holes and surrounding host galaxies, and the emission of high-energy photons, cosmic rays, and neutrinos.
+
+In July 2018, the IceCube Neutrino Observatory team traced a neutrino that hit its Antarctica-based detector in September 2017 to its point of origin in a blazar 3.7 billion light-years away. This was the first time that a neutrino detector was used to locate an object in space.[4][5][6]
+
+Structure
+
+Sloan Digital Sky Survey image of blazar Markarian 421, illustrating the bright nucleus and elliptical host galaxy
+Blazars, like all active galactic nuclei (AGN), are thought to be powered by material falling into a supermassive black hole in the core of the host galaxy. Gas, dust and the occasional star are captured and spiral into this central black hole, creating a hot accretion disk which generates enormous amounts of energy in the form of photons, electrons, positrons and other elementary particles. This region is relatively small, approximately 10−3 parsecs in size.
+
+There is also a larger opaque toroid extending several parsecs from the black hole, containing a hot gas with embedded regions of higher density. These "clouds" can absorb and re-emit energy from regions closer to the black hole. On Earth, the clouds are detected as emission lines in the blazar spectrum.
+
+Perpendicular to the accretion disk, a pair of relativistic jets carries highly energetic plasma away from the AGN. The jet is collimated by a combination of intense magnetic fields and powerful winds from the accretion disk and toroid. Inside the jet, high energy photons and particles interact with each other and the strong magnetic field. These relativistic jets can extend as far as many tens of kiloparsecs from the central black hole.
+
+All of these regions can produce a variety of observed energy, mostly in the form of a nonthermal spectrum ranging from very low-frequency radio to extremely energetic gamma rays, with a high polarization (typically a few percent) at some frequencies. The nonthermal spectrum consists of synchrotron radiation in the radio to X-ray range, and inverse Compton emission in the X-ray to gamma-ray region. A thermal spectrum peaking in the ultraviolet region and faint optical emission lines are also present in OVV quasars, but faint or non-existent in BL Lac objects.
+
+Relativistic beaming
+The observed emission from a blazar is greatly enhanced by relativistic effects in the jet, a process called relativistic beaming. The bulk speed of the plasma that constitutes the jet can be in the range of 95%–99% of the speed of light, although individual particles move at higher speeds in various directions.
